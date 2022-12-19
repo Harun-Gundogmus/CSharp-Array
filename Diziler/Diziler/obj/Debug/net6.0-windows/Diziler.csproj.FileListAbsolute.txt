@@ -1,0 +1,36 @@
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.IK.resources
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.csproj.GenerateResource.cache
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.exe
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.deps.json
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.runtimeconfig.json
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.dll
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.pdb
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.dll
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\obj\Debug\net6.0-windows\refint\Diziler.dll
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.pdb
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.genruntimeconfig.cache
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\obj\Debug\net6.0-windows\ref\Diziler.dll
+C:\Users\HUAWEI\source\repos\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.GirisEkrani.resources
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.exe
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.deps.json
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.runtimeconfig.json
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.pdb
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.GirisEkrani.resources
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.IK.resources
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.csproj.GenerateResource.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.AssemblyInfo.cs
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\obj\Debug\net6.0-windows\refint\Diziler.dll
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.pdb
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.genruntimeconfig.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\Diziler\Diziler\obj\Debug\net6.0-windows\ref\Diziler.dll
